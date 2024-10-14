@@ -1,7 +1,8 @@
+Here's an updated GitHub README template to reflect your specific projects:
 
 ---
 
-# 👋 Hello! I'm [A Adithya Vardan]  
+# 👋 Hello! I'm [Your Name]  
 
 **Electrical Engineering Student | Robotics Enthusiast | Defense & Aerospace Tech | Automation Geek**
 
@@ -9,16 +10,13 @@
 
 ### 🚀 About Me
 
-I’m an Electrical Engineering student passionate about **robotics**, **automation**, **defense technologies**, and **aerospace systems**. With a strong foundation in electronics, control systems, and embedded systems, I love designing and building innovative projects that bridge software and hardware.
-
-I am constantly learning and experimenting with new technologies, from autonomous systems to drone control, and exploring how engineering can push the boundaries of innovation in defense and aerospace.
+I’m an Electrical Engineering student passionate about **robotics**, **automation**, **defense technologies**, and **aerospace systems**. I enjoy designing systems that blend hardware and software, and I’m constantly exploring ways to innovate in fields like electric vehicles and voice-enabled technologies.
 
 ### 🔭 What I'm Currently Working On:
-- **Autonomous Robotics**: Developing control algorithms for autonomous mobile robots.
-- **Defense Systems**: Exploring electronic warfare and radar systems.
-- **Aerospace Automation**: Working on UAV systems and automated flight control.
-- **Embedded Systems**: Programming microcontrollers and integrating sensors/actuators.
-
+- **Electric Vehicle Monitoring**: Developing a real-time system to track and visualize key stats for electric vehicles.
+- **Voice Assistants**: Building a speech-to-text interface for controlling devices through voice commands.
+- **Time Display Systems**: Creating LED matrix displays with real-time clocks and internet-based time synchronization.
+  
 ### ⚡ Skills & Expertise:
 - **Programming Languages**: C, C++, Python, MATLAB, VHDL, Arduino, ROS (Robot Operating System)
 - **Hardware & Tools**: FPGA, Microcontrollers (STM32, Arduino, PIC), PCB Design (Eagle, KiCAD), Digital/Analog Circuit Design
@@ -27,39 +25,34 @@ I am constantly learning and experimenting with new technologies, from autonomou
 - **Defense & Aerospace**: Radar Systems, UAV Design, Autonomous Navigation
 
 ### 🛠️ Projects:
-1. **Autonomous Drone Navigation**: 
-   - A quadcopter drone with obstacle avoidance using LIDAR and real-time path planning.
-   - Tech Stack: ROS, OpenCV, Python, STM32 microcontroller.
-   
-2. **Robotic Arm for Precision Manufacturing**:
-   - A 6-DOF robotic arm programmed for high-precision movements in an automated manufacturing environment.
-   - Tech Stack: ROS, C++, MATLAB, Simulink.
+1. **Electric Vehicle Stats Monitoring System**: 
+   - A system for monitoring and displaying key stats (battery levels, speed, temperature) of an electric vehicle in real time.
+   - Tech Stack: Arduino, C++, Sensor Integration, LCD/OLED Display.
 
-3. **Radar-Based Object Detection for Defense**:
-   - Implementing a low-cost radar system to detect objects and analyze distances in real-time for defense applications.
-   - Tech Stack: MATLAB, Simulink, C++.
+2. **Speech-to-Text User Interface (Voice Assistant)**:
+   - A voice-enabled assistant that converts speech to text and performs tasks or provides feedback based on voice commands.
+   - Tech Stack: Python, Speech Recognition APIs, Embedded Systems.
 
-4. **Flight Control System for UAVs**:
-   - Designed an embedded flight control system for a fixed-wing UAV using PID controllers for stability and trajectory tracking.
-   - Tech Stack: STM32, Simulink, C.
+3. **Time Display with LED Matrix**:
+   - An LED matrix system displaying time, sourced from an RTC module and synchronized with internet time data.
+   - Tech Stack: Arduino, RTC Module, LED Matrix, Internet Time Sync.
 
 ### 📚 Research Interests:
 - Autonomous Systems in Aerospace
 - Defense Electronics & Radar Technologies
-- Artificial Intelligence in Robotics
-- Advanced Control Systems in Automation
+- AI & Machine Learning in Robotics
+- Embedded Systems in Electric Vehicles
 
 ### 🌱 What I'm Learning:
 - Advanced Robotics and AI for UAVs
 - Sensor Fusion and SLAM (Simultaneous Localization and Mapping)
-- Embedded Systems for Defense Applications
+- Embedded Systems for Electric Vehicles and Defense Applications
 
 ### 📫 Let's Connect!
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email Address]
-- **Personal Website/Portfolio**: [Your Website]
+- **LinkedIn**: [https://www.linkedin.com/in/adithya-vardan-55b6661bb/]
+- **Email**: [a.adithyavardan1@gmail.com]
 
-Feel free to explore my repositories and check out some of the projects I've been working on. I'm always open to collaborating on innovative ideas in the fields of robotics, automation, defense, and aerospace technology!
+Feel free to explore my repositories and check out some of the projects I've been working on. I’m always open to collaborating on exciting ideas in robotics, automation, electric vehicles, and aerospace!
 
 ---
 
@@ -68,7 +61,5 @@ Feel free to explore my repositories and check out some of the projects I've bee
 
 ---
 
-#### "Engineering is not only the study of machines and circuits, but the creation of future possibilities!"
 
----
 
