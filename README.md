@@ -1,7 +1,3 @@
-Here's an updated GitHub README template to reflect your specific projects:
-
----
-
 # 👋 Hello! I'm [A Adithya Vardan]  
 
 **Electrical Engineering Student | Robotics Enthusiast | Defense & Aerospace Tech | Automation Geek**
