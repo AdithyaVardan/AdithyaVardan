@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [A Adithya Vardan]  
+# 👋 Hello! I'm A Adithya Vardan  
 
 **Electrical Engineering Student | Robotics Enthusiast | Defense & Aerospace Tech | Automation Geek**
 
