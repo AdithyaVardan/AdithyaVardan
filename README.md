@@ -64,7 +64,7 @@ Feel free to explore my repositories and check out some of the projects I've bee
 ---
 
 ### ⚙️ GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdithyaVardan&show_icons=true&theme=radical)
 
 ---
 
