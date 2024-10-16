@@ -8,7 +8,7 @@
 
 I’m an Electrical Engineering student passionate about **robotics**, **automation**, **defense technologies**, and **aerospace systems**. I enjoy designing systems that blend hardware and software, and I’m constantly exploring ways to innovate in fields like electric vehicles and voice-enabled technologies.
 
-### 🔭 What I'm Currently Working On:
+###  What I'm Currently Working On:
 - **Electric Vehicle Monitoring**: Developing a real-time system to track and visualize key stats for electric vehicles.
 - **Voice Assistants**: Building a speech-to-text interface for controlling devices through voice commands.
 - **Time Display Systems**: Creating LED matrix displays with real-time clocks and internet-based time synchronization.
@@ -20,7 +20,7 @@ I’m an Electrical Engineering student passionate about **robotics**, **automat
 - **Robotics & Automation**: ROS, LIDAR, SLAM, Robotic Kinematics
 - **Defense & Aerospace**: Radar Systems, UAV Design, Autonomous Navigation
 
-### 🛠 Projects:
+###  Projects:
 1. **Electric Vehicle Stats Monitoring System**: 
    - A system for monitoring and displaying key stats (battery levels, speed, temperature) of an electric vehicle in real time.
    - Tech Stack: Arduino, C++, Sensor Integration, LCD/OLED Display.
