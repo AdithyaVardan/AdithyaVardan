@@ -6,7 +6,7 @@
 
 ###  About Me
 
-I’m an Electrical Engineering student passionate about **robotics**, **automation**, **defense technologies**, and **aerospace systems**. I enjoy designing systems that blend hardware and software, and I’m constantly exploring ways to innovate in fields like electric vehicles and voice-enabled technologies.
+I’m an Electrical Engineer passionate about **robotics**, **automation**, **defense technologies**, and **aerospace systems**. I enjoy designing systems that blend hardware and software, and I’m constantly exploring ways to innovate in fields like Robotics, electric vehicles and voice-enabled technologies.
 
 ###  What I'm Currently Working On:
 - **Electric Vehicle Monitoring**: Developing a real-time system to track and visualize key stats for electric vehicles.
